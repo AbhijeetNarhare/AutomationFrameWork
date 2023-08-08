@@ -87,7 +87,9 @@ public class CreateOrgnizationTest extends BaseClass{
 					String OrgHeader=oip.getHeader();
 					Assert.assertTrue(OrgHeader.contains(ORGNAME));
 									
-					System.out.println(OrgHeader);				
+					System.out.println(OrgHeader);	
+					
+					System.out.println("hi");
 													
 					
 				
