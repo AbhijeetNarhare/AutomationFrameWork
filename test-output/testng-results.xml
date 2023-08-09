@@ -14,27 +14,27 @@
       <![CDATA[Organization Created with Industry]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-08T19:49:01 IST" name="Suite" finished-at="2023-08-08T19:49:18 IST" duration-ms="16809">
+  <suite started-at="2023-08-09T12:21:36 IST" name="Suite" finished-at="2023-08-09T12:21:52 IST" duration-ms="16363">
     <groups>
       <group name="SmokeSuite">
         <method signature="CreateOrgnizationTest.CreateOrgTest()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" name="CreateOrgTest" class="vtiger.ogranizationTests.CreateOrgnizationTest"/>
       </group> <!-- SmokeSuite -->
     </groups>
-    <test started-at="2023-08-08T19:49:01 IST" name="Test" finished-at="2023-08-08T19:49:18 IST" duration-ms="16809">
+    <test started-at="2023-08-09T12:21:36 IST" name="Test" finished-at="2023-08-09T12:21:52 IST" duration-ms="16363">
       <class name="vtiger.ogranizationTests.CreateOrgnizationTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-08T19:49:01 IST" name="bsConfig" finished-at="2023-08-08T19:49:01 IST" duration-ms="18" status="PASS">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-09T12:21:36 IST" name="bsConfig" finished-at="2023-08-09T12:21:36 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-08T19:49:02 IST" name="bcConfig" finished-at="2023-08-08T19:49:07 IST" duration-ms="5100" status="PASS">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-09T12:21:36 IST" name="bcConfig" finished-at="2023-08-09T12:21:41 IST" duration-ms="4531" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-08T19:49:07 IST" name="bmConfig" finished-at="2023-08-08T19:49:09 IST" duration-ms="1788" status="PASS">
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-09T12:21:41 IST" name="bmConfig" finished-at="2023-08-09T12:21:43 IST" duration-ms="2369" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmConfig -->
-        <test-method signature="CreateOrgTest()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-08T19:49:09 IST" name="CreateOrgTest" finished-at="2023-08-08T19:49:15 IST" duration-ms="6354" status="PASS">
+        <test-method signature="CreateOrgTest()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-09T12:21:43 IST" name="CreateOrgTest" finished-at="2023-08-09T12:21:49 IST" duration-ms="6280" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Org link clicked]]>
@@ -50,15 +50,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- CreateOrgTest -->
-        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-08T19:49:15 IST" name="amConfig" finished-at="2023-08-08T19:49:18 IST" duration-ms="2688" status="PASS">
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-09T12:21:49 IST" name="amConfig" finished-at="2023-08-09T12:21:52 IST" duration-ms="2409" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amConfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-08T19:49:18 IST" name="acConfig" finished-at="2023-08-08T19:49:18 IST" duration-ms="266" status="PASS">
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-09T12:21:52 IST" name="acConfig" finished-at="2023-08-09T12:21:52 IST" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-08T19:49:19 IST" name="asConfig" finished-at="2023-08-08T19:49:19 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger.ogranizationTests.CreateOrgnizationTest@26794848]" started-at="2023-08-09T12:21:52 IST" name="asConfig" finished-at="2023-08-09T12:21:52 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- asConfig -->
